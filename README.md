@@ -9,7 +9,7 @@ Capstone project, senior presentation, key milestones, and courses taken through
 Worked in a group of six while collaborating with cross-disciplinary majors to create a fully functioning website from scratch. I contributed as the Backend Lead to help build the application, as well as with hosting our website on an AWS cloud server.
 
 
-## Senior Presentation
+## Senior Thesis Paper
 
 
 ## Key Milestones
