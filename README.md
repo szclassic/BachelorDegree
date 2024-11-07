@@ -2,7 +2,7 @@
 
 Capstone project, senior presentation, key milestones, and courses taken throughout my journey to attain my Bachelor's Degree in Computer Science from San Francisco State University.
 
-My Bachelor of Science in Computer Science from San Francisco State University: https://www.parchment.com/u/award/55097d7608c71b71e3225a88acc73874
+[My Bachelor of Science in Computer Science from San Francisco State University](https://www.parchment.com/u/award/55097d7608c71b71e3225a88acc73874) 
 
 ## Capstone Project
 
