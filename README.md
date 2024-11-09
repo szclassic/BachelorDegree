@@ -1,6 +1,6 @@
 # Bachelor Degree
 
-Capstone project, senior thesis, notable assignments, and courses taken throughout my journey to attain my Bachelor's Degree in Computer Science from San Francisco State University.
+Capstone project, senior thesis, notable moments, and courses taken throughout my journey to attain my Bachelor's Degree in Computer Science from San Francisco State University.
 
 [My Bachelor of Science in Computer Science from San Francisco State University](https://www.parchment.com/u/award/55097d7608c71b71e3225a88acc73874) 
 
@@ -12,7 +12,7 @@ Worked in a group of six while collaborating with cross-disciplinary majors to c
 ## Senior Thesis
 
 
-## Notable Assignments
+## Notable Moments
 
 
 ## Relevant Coursework Taken
